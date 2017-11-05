@@ -1,2 +1,1 @@
-# locetus.github.io
-Locetus Website
+# Locetus Website
